@@ -1,0 +1,84 @@
+question,minority_percentage,real_expert_number,P_expert_number_rT,P_expert_number_rF
+1 - malignant nodular melanoma.jpg,0.12076923076923075,0,0,0.0
+11 - malignant melanoma 4 (SSM).jpg,0.24040000000000009,0,0,0.0
+12 - Malignant melanoma 5 (SSM).jpg,0.24040000000000009,1,1,0.0
+17 - Benign Junctional Nevus.jpg,0.11083333333333334,0,0,1.0
+17 - Malignant ListaImagens\basal_cell_carcinoma116.jpg,0.12153846153846158,0,0,0.0
+18 - Benign Granuloma Pyogenicum.jpg,0.24439999999999995,6,8,11.0
+22 - Benign ListaImagens\angiokeratoma-solitary_angiokeratoma4.jpg,0.11416666666666668,0,5,5.0
+24 - Malignant ListaImagens\basal_cell_carcinoma217.jpg,0.24239999999999998,6,6,0.0
+26 - Malignant ListaImagens\basal_cell_carcinoma8.jpg,0.242,2,0,0.0
+32 - Malignant ListaImagens\melanoma12.jpg,0.24000000000000013,0,0,0.0
+35 - Malignant ListaImagens\melanoma33.jpg,0.48000000000000026,3,12,12.0
+36 - Benign ListaImagens\furuncle7.jpg,0.1133333333333333,1,4,4.0
+36 - Malignant ListaImagens\melanoma58.jpg,0.24279999999999993,0,6,0.0
+44 - Benign ListaImagens\keratosis_seborrheic2.jpg,0.16000000000000003,3,3,0.0
+45 - Malignant ListaImagens\lentigo_maligna-melanoma2.jpg,0.12000000000000004,0,0,0.0
+46 - Benign ListaImagens\Leprosy_tuberculoid84.jpg,0.04000000000000001,0,0,0.0
+5 - benign blue naevus.jpg,0.16666666666666666,0,0,0.0
+52 - Malignant ListaImagens\squamous_cell_carcinoma19.jpg,0.4615384615384616,0,0,6.0
+53 - Benign ListaImagens\reiter's_syndrome41.jpg,0.11083333333333334,0,0,1.0
+55 - Malignant ListaImagens\squamous_cell_carcinoma71.jpg,0.12076923076923075,1,1,0.0
+59 - Benign ListaImagens\tungiasis20.jpg,0.2435999999999999,0,7,9.0
+64 - Benign ListaImagens\warts_vulgaris29.jpg,0.08333333333333333,0,0,0.0
+7 - Malignant Superficial Spreading Melanoma (SSM).jpg,0.24040000000000009,0,0,0.0
+8 - benign carbuncle.jpg,0.24080000000000004,0,0,2.0
+A monotreme is a mammal which lays eggs,0.435897435897436,13,15,17.0
+An alpha particle is identical to a helium nucleus,0.3333333333333335,9,13,13.0
+Arizona,0.3215151515151516,3,0,0.0
+Benign Compound nevus - 498 011568HB.jpg,0.04000000000000001,0,0,0.0
+Benign Conpund nevus - 4769 005759HB.jpg,0.11166666666666665,2,2,2.0
+Benign keratosis  - 5719 012955HB.jpg,0.16666666666666666,0,0,0.0
+Benign nevus incepiens 1468  04566HB.jpg,0.04000000000000001,0,0,0.0
+Billy the Kid never actually shot anyone dead,0.3846153846153849,0,10,0.0
+"Birmingham, Alabama has a larger population than Birmingham, UK.",0.38333333333333325,5,11,13.0
+California,0.24242424242424226,0,0,0.0
+Connecticut,0.09090909090909087,0,0,0.0
+Croatia is on the Iberian Peninsula.,0.38487179487179507,0,16,19.0
+Earth's atmosphere is mostly Nitrogen,0.38435897435897454,0,11,0.0
+Genghis Khan's real name was Temujin,0.38487179487179507,0,0,0.0
+Hawaii,0.3203030303030303,0,0,0.0
+Illinois,0.3242424242424242,5,0,14.0
+Indiana,0.32090909090909087,3,3,0.0
+Joan of Arc fought at the Battle of Agincourt,0.3830769230769228,0,10,12.0
+Kansas,0.3248484848484848,10,0,16.0
+Louisiana,0.424242424242424,0,0,0.0
+Michigan,0.3245454545454544,7,0,15.0
+Mississippi,0.3233333333333335,10,10,0.0
+Montana,0.39393939393939403,0,0,0.0
+More people speak Kyrgyz than Uzbek,0.3589743589743591,3,7,0.0
+Nevada,0.33333333333333337,0,0,0.0
+New_Hampshire,0.3248484848484848,0,0,16.0
+Nigeria is the country with most indigenous languages,0.3838461538461538,12,14,15.0
+Norway separated from Sweden in the 20th Century,0.3835897435897434,3,12,0.0
+Paraguay is a landlocked country.,0.38282051282051244,1,0,0.0
+Part of the Andes mountain range is in Brazil.,0.38333333333333325,0,0,13.0
+Portuguese is the official language of Mozambique,0.41025641025641046,15,16,16.0
+Schuyler Colfax was Abraham Lincoln's Vice President,0.2564102564102562,0,8,0.0
+South_Carolina,0.32363636363636367,10,0,0.0
+Stephenson's Rocket was the first steam locomotive,0.3589743589743591,10,12,0.0
+Texas,0.3636363636363635,0,0,0.0
+The Crimean War was fought before the Boer Wars,0.3846153846153849,0,11,0.0
+The Faroe Islands are an Icelandic territory.,0.38435897435897454,0,6,17.0
+The Indian Ocean is the third largest ocean in the world,0.3830769230769228,4,9,0.0
+The Iron Age comes after the Bronze Age,0.3830769230769228,6,0,0.0
+The Nile River is more than double the length of the Volga,0.38153846153846155,5,5,6.0
+The aorta is a vein,0.3841025641025641,14,15,16.0
+The currency of Switzerland is the Euro,0.3838461538461538,9,0,15.0
+The point furthest from Earth's center is in Ecuador.,0.3076923076923078,0,4,12.0
+There are 24 letters in the Greek alphabet,0.3825641025641029,8,10,0.0
+There are more countries in Africa than Asia,0.38102564102564085,3,3,0.0
+There are more native Japanese speakers than native French speakers,0.3841025641025641,11,0,0.0
+There are no single word anagrams of the word 'anagram',0.3835897435897434,0,9,0.0
+Transnistria is a disputed territory in Moldova,0.3589743589743591,3,9,14.0
+Uranus is bigger than Saturn,0.3589743589743591,0,7,0.0
+Utah,0.3206060606060605,0,0,0.0
+VJ Day occurred prior to VE Day,0.3333333333333335,1,9,0.0
+Washington,0.32303030303030295,0,0,10.0
+Wellington is located on New Zealand's North Island.,0.38282051282051244,0,3,0.0
+William Wallace lived before King Macbeth,0.3846153846153849,0,14,18.0
+Wisconsin,0.48484848484848453,0,0,0.0
+malignant-Melanoma-0085.jpg,0.24000000000000013,0,0,0.0
+20 - Benign sebker_1_011003.jpg,0.0,0,0,0.0
+29- Malignant ListaImagens\melanocytic_naevi_congenital1.jpg,0.0,0,0,0.0
+31 - Malignant ListaImagens\melanocytic_naevi_intradermal3.jpg,0.0,0,0,0.0

@@ -1,0 +1,553 @@
+,category,type,difficulty,question,correct_answer,incorrect_answers
+0,Entertainment: Video Games,boolean,easy,Peter Molyneux was the founder of Bullfrog Productions.,True,False
+0,Geography,boolean,easy,A group of islands is called an &#039;archipelago&#039;.,True,False
+0,History,boolean,medium,The two atomic bombs dropped on Japan by the United States in August 1945 were named &#039;Little Man&#039; and &#039;Fat Boy&#039;.,False,True
+0,Entertainment: Music,boolean,medium,The cover of The Beatles album &quot;Abbey Road&quot; featured a Volkswagen Beetle in the background.,True,False
+0,Entertainment: Video Games,boolean,easy,The Mann Co. Store from Team Fortress 2 has the slogan &quot;We hire mercenaries and get in fights&quot;.,False,True
+0,Science & Nature,boolean,medium,The &quot;Gympie Stinger&quot; is the deadliest plant in the world.,False,True
+0,Politics,boolean,easy,The S in Harry S. Truman stands for &quot;Samuel&quot;.,False,True
+0,Entertainment: Music,boolean,medium,Norwegian producer Kygo released a remix of the song &quot;Sexual Healing&quot; by Marvin Gaye.,True,False
+0,Science: Computers,boolean,easy,The logo for Snapchat is a Bell.,False,True
+0,Science & Nature,boolean,medium,"Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",True,False
+0,History,boolean,medium,"Sargon II, a king of the Neo-Assyrian Empire, was a direct descendant of Sargon of Akkad.",False,True
+0,Geography,boolean,easy,There is a city called Rome in every continent on Earth.,False,True
+0,Science: Mathematics,boolean,easy,"A universal set, or a set that contains all sets, exists.",False,True
+0,History,boolean,easy,The United States Department of Homeland Security was formed in response to the September 11th attacks.,True,False
+0,Entertainment: Video Games,boolean,medium,Tony Hawk&#039;s Pro Skater was released in 1999.,True,False
+0,General Knowledge,boolean,medium,The average woman is 5 inches / 13 centimeters shorter than the average man.,True,False
+0,Science: Computers,boolean,medium,MacOS is based on Linux.,False,True
+0,Entertainment: Video Games,boolean,medium,"In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",False,True
+0,Politics,boolean,easy,The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.,False,True
+0,Geography,boolean,easy,There are no deserts in Europe.,True,False
+0,Entertainment: Video Games,boolean,medium,"TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ",True,False
+0,Entertainment: Television,boolean,medium,"In the TV series Red Dwarf, Kryten&#039;s full name is Kryten 2X4B-523P.",True,False
+0,Geography,boolean,medium,Antarctica is the largest desert in the world.,True,False
+0,Science: Computers,boolean,easy,"In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.",True,False
+0,General Knowledge,boolean,easy,The Lego Group was founded in 1932.,True,False
+0,Entertainment: Music,boolean,easy,"The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.",True,False
+0,Entertainment: Music,boolean,medium,&quot;Twenty One Pilots&quot; made the song &quot;The Motion&quot; featuring Sampha.,False,True
+0,Entertainment: Video Games,boolean,easy,"Ana was added as a new hero for the game Overwatch on July 19th, 2016.",True,False
+0,Science: Computers,boolean,hard,The IBM PC used an Intel 8008 microprocessor clocked at 4.77 MHz and 8 kilobytes of memory.,False,True
+0,Science: Gadgets,boolean,easy,"Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",True,False
+0,Sports,boolean,easy,Roger Federer is a famous soccer player.,False,True
+0,Vehicles,boolean,medium,Ferrari has never made a V10 engine for any of its cars.,False,True
+0,Entertainment: Music,boolean,easy,A Saxophone is a brass instrument.,False,True
+0,Science & Nature,boolean,easy,An exothermic reaction is a chemical reaction that releases energy by radiating electricity.,False,True
+0,Science & Nature,boolean,medium,"In the periodic table, Potassium&#039;s symbol is the letter K.",True,False
+0,Entertainment: Film,boolean,easy,"In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.",True,False
+0,Entertainment: Video Games,boolean,easy,"In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",False,True
+0,Entertainment: Music,boolean,medium,Pink Guy&#039;s debut album was &quot;Pink Season&quot;.,False,True
+0,Entertainment: Video Games,boolean,hard,"All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",False,True
+0,Entertainment: Television,boolean,easy,"In &quot;Star Trek&quot;, Klingons are aliens.",True,False
+0,Science & Nature,boolean,hard,The value of one Calorie is different than the value of one calorie.,True,False
+0,History,boolean,easy,The French Kingdom helped the United States gain their independence over Great Britain during the Revolutionary War.,True,False
+0,Entertainment: Television,boolean,medium,"In &quot;Star Trek: The Next Generation&quot;, Data is the only android in existence.",False,True
+0,Entertainment: Film,boolean,easy,"&quot;Foodfight!&quot; earned less than $80,000 at box office.",True,False
+0,Entertainment: Video Games,boolean,medium,"In career mode of &quot;Need for Speed: Underground 2&quot;, the first car the player can drive is the BMW M3 GTR.",False,True
+0,Entertainment: Video Games,boolean,easy,"In &quot;Need for Speed: Porsche Unleashed&quot;, the player can only drive cars manufactured by Porsche.",True,False
+0,Vehicles,boolean,easy,BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.,True,False
+0,Animals,boolean,medium,Tigers have one colour of skin despite the stripey fur.,False,True
+0,Entertainment: Music,boolean,medium,A Facebook campaign placed Rage Against The Machine&#039;s &quot;Killing in the Name Of&quot; as the UK Christmas Number 1 in 2009.,True,False
+0,Geography,boolean,medium,"The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.",True,False
+0,Entertainment: Television,boolean,medium,"AMC&#039;s &quot;The Walking Dead&quot;, Rick, Carl, Daryl, Morgan, Carol and Maggie were introduced to us in Season 1.",False,True
+0,Entertainment: Video Games,boolean,easy,The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.,False,True
+0,Animals,boolean,medium,"The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",False,True
+0,History,boolean,easy,The Cold War ended with Joseph Stalin&#039;s death.,False,True
+0,Entertainment: Film,boolean,easy,Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.,True,False
+0,Science: Computers,boolean,medium,All program codes have to be compiled into an executable file in order to be run. This file can then be executed on any machine.,False,True
+0,Science & Nature,boolean,medium,Steel is an alloy of Iron and Carbon.,True,False
+0,History,boolean,medium,"&quot;I disapprove of what you say, but I will defend to the death your right to say it&quot; is a quote from French philosopher Voltaire.",False,True
+0,Science & Nature,boolean,medium,Shrimp can swim backwards.,True,False
+0,Entertainment: Music,boolean,medium,The country song  &ldquo;A Boy Named Sue&rdquo; was written by Shel Silverstein.,True,False
+0,History,boolean,medium,Brezhnev was the 5th leader of the USSR.,True,False
+0,Entertainment: Video Games,boolean,easy,The game &quot;Battlefield 1&quot; takes place during World War I.,True,False
+0,Entertainment: Music,boolean,medium,Ashley Frangipane performs under the stage name Halsey.,True,False
+0,Science: Gadgets,boolean,easy,The communication protocol NFC stands for Near-Field Control.,False,True
+0,General Knowledge,boolean,medium,You are allowed to sell your soul on eBay.,False,True
+0,Geography,boolean,easy,Ottawa is the capital of Canada.,True,False
+0,Science & Nature,boolean,hard,Scientists can grow teeth from urine.,True,False
+0,Entertainment: Video Games,boolean,easy,The ultimate phrase used by Pharah from Overwatch is: &quot;Justice rains from above!&quot;,True,False
+0,Entertainment: Video Games,boolean,easy,Minecraft can be played with a virtual reality headset.,True,False
+0,Entertainment: Television,boolean,medium,The television show Doctor Who first aired in 1963.,True,False
+0,Entertainment: Board Games,boolean,easy,The Angry Video Game Nerd&#039;s alter ego is &quot;Board James&quot;.,True,False
+0,Entertainment: Video Games,boolean,medium,TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.,True,False
+0,Entertainment: Video Games,boolean,easy,Rebecca Chambers does not appear in any Resident Evil except for the original Resident Evil and the Gamecube remake.,False,True
+0,Geography,boolean,medium,The capital of the US State Ohio is the city of Chillicothe.,False,True
+0,Geography,boolean,medium,You could walk from Norway to North Korea while only passing through Russia.,True,False
+0,Entertainment: Film,boolean,easy,"In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",False,True
+0,Mythology,boolean,medium,"In Greek mythology, Hera is the goddess of harvest.",False,True
+0,Politics,boolean,medium,"During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.",True,False
+0,Science: Computers,boolean,medium,The first dual-core CPU was the Intel Pentium D.,False,True
+0,Science & Nature,boolean,easy,An Astronomical Unit is the distance between Earth and the Moon.,False,True
+0,Sports,boolean,medium,Formula E is an auto racing series that uses hybrid electric race cars.,False,True
+0,History,boolean,medium,Oxford University is older than the Aztec Empire. ,True,False
+0,Entertainment: Film,boolean,easy,George Lucas directed the entire original Star Wars trilogy.,False,True
+0,Entertainment: Music,boolean,easy,Daft Punk originated in France.,True,False
+0,Entertainment: Video Games,boolean,medium,"In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.",True,False
+0,Mythology,boolean,medium,The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.,True,False
+0,Science & Nature,boolean,medium,Sugar contains fat.,False,True
+0,Celebrities,boolean,hard,Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.,True,False
+0,Entertainment: Cartoon & Animations,boolean,easy,Waylon Smithers from &quot;The Simpsons&quot; was originally black when he first appeared in the series.,True,False
+0,General Knowledge,boolean,medium,Haggis is traditionally ate on Burns Night.,True,False
+0,History,boolean,easy,The United States of America was the first country to launch a man into space.,False,True
+0,Mythology,boolean,hard,Janus was the Roman god of doorways and passageways.,True,False
+0,Entertainment: Music,boolean,easy,"In 1993, Prince changed his name to an unpronounceable symbol because he was unhappy with his contract with Warner Bros.",True,False
+0,Science & Nature,boolean,easy,Not including false teeth; A human has two sets of teeth in their lifetime.,True,False
+0,Science & Nature,boolean,medium,The most frequent subconscious activity repeated by the human body is blinking.,False,True
+0,General Knowledge,boolean,medium,The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.,False,True
+0,Science: Computers,boolean,medium,The common software-programming acronym &quot;I18N&quot; comes from the term &quot;Interlocalization&quot;.,False,True
+0,Science & Nature,boolean,medium,Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.,True,False
+0,General Knowledge,boolean,easy,Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.,False,True
+0,History,boolean,medium,The first televised presidential debate was between Jimmy Carter and Gerald Ford.,False,True
+0,General Knowledge,boolean,easy,Gumbo is a stew that originated in Louisiana.,True,False
+0,Geography,boolean,medium,"There are no roads in/out of Juneau, Alaska.",True,False
+0,Entertainment: Film,boolean,easy,The 2010 film &quot;The Social Network&quot; is a biographical drama film about MySpace founder Tom Anderson.,False,True
+0,Entertainment: Video Games,boolean,easy,Faust is a playable character in &quot;Guilty Gear Xrd Revelator&quot;.,True,False
+0,Science & Nature,boolean,hard,It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.,True,False
+0,Vehicles,boolean,medium,The Chevrolet Corvette has always been made exclusively with V8 engines only.,False,True
+0,Science: Computers,boolean,medium,&quot;Windows NT&quot; is a monolithic kernel.,False,True
+0,Sports,boolean,medium,Tennis was once known as Racquetball.,False,True
+0,Entertainment: Cartoon & Animations,boolean,easy,Bill Cipher in the show &quot;Gravity Falls&quot; is the good guy.,False,True
+0,Politics,boolean,easy,"Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",False,True
+0,Entertainment: Film,boolean,easy,Shaquille O&#039;Neal appeared in the 1997 film &quot;Space Jam&quot;.,False,True
+0,General Knowledge,boolean,easy,"On average, at least 1 person is killed by a drunk driver in the United States every hour.",True,False
+0,Entertainment: Film,boolean,easy,"Samuel L. Jackson had the words, &#039;Bad Motherf*cker&#039; in-scripted on his lightsaber during the filming of Star Wars.",True,False
+0,Entertainment: Film,boolean,easy,In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ,True,False
+0,Entertainment: Books,boolean,easy,"&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",True,False
+0,General Knowledge,boolean,easy,Adolf Hitler was born in Australia. ,False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In the &quot;Toaru Kagaku no Railgun&quot; anime,  espers can only reach a maximum of level 6 in their abilities.",False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,The name of the attack &quot;Kamehameha&quot; in Dragon Ball Z was named after a famous king of Hawaii.,True,False
+0,Entertainment: Music,boolean,medium,EDM label Monstercat signs tracks instead of artists.,True,False
+0,Vehicles,boolean,medium,Arriva is owned by the Deutsche Bahn.,True,False
+0,Geography,boolean,hard,"Switzerland has four national languages, English being one of them.",False,True
+0,Entertainment: Video Games,boolean,medium,"In Rocket League, you can play Basketball.",True,False
+0,History,boolean,easy,"In World War ll, Great Britian used inflatable tanks on the ports of Great Britain to divert Hitler away from Normandy/D-day landing.",True,False
+0,Science: Computers,boolean,easy,Linux was first created as an alternative to Windows XP.,False,True
+0,Entertainment: Video Games,boolean,easy,Watch_Dogs 2 is a prequel.,False,True
+0,Entertainment: Television,boolean,easy,Klingons express emotion in art through opera and poetry.,True,False
+0,Animals,boolean,easy,The Killer Whale is considered a type of dolphin.,True,False
+0,Entertainment: Video Games,boolean,easy,&quot;Metal Gear Solid 3: Snake Eater&quot; was released in 2004.,True,False
+0,Entertainment: Video Games,boolean,medium,The Fiat Multipla is a drivable car in &quot;Forza Horizon 3&quot;.,False,True
+0,Entertainment: Video Games,boolean,medium,"In &quot;League of Legends&quot;, there exists four different types of Dragon.",False,True
+0,General Knowledge,boolean,medium,The scientific name for the Southern Lights is Aurora Australis?,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In Chobits, Hideki found Chii in his apartment.",False,True
+0,Politics,boolean,easy,Former president Theodore Roosevelt (1900-1908)  ran for another term under the Progressive Party in 1912.,True,False
+0,Entertainment: Books,boolean,easy,&quot;Green Eggs and Ham&quot; consists of only 50 different words.,True,False
+0,Entertainment: Music,boolean,hard,The singer Billie Holiday was also known as &quot;Lady Day&quot;.,True,False
+0,Entertainment: Cartoon & Animations,boolean,medium,Donald Duck played the role of Bob Cratchit in Disney&#039;s 1983 adaptation of A Christmas Carol.,False,True
+0,History,boolean,medium,The Korean War ended in 1953 without any ceasefire.,False,True
+0,History,boolean,medium,"Sir Issac Newton served as a Member of Parliament, but the only recorded time he spoke was to complain about a draft in the chambers.",True,False
+0,Entertainment: Cartoon & Animations,boolean,easy,"In the &quot;Shrek&quot; film franchise, Donkey is played by Eddie Murphy.",True,False
+0,Geography,boolean,medium,Seoul is the capital of North Korea.,False,True
+0,Science: Mathematics,boolean,medium,The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.,False,True
+0,Geography,boolean,medium,The surface area of Russia is slightly larger than that of the dwarf planet Pluto.,True,False
+0,Science & Nature,boolean,medium,The planet Mars has two moons orbiting it.,True,False
+0,Entertainment: Music,boolean,easy,Eurobeat is primarily an Italian genre of music.,True,False
+0,Vehicles,boolean,medium,The Japanese Shinkansen beat the French TGV&#039;s speed record for fastest electric rail train.,False,True
+0,Entertainment: Video Games,boolean,easy,Luigi is taller than Mario?,True,False
+0,Entertainment: Video Games,boolean,easy,Donkey Kong was originally set to be a Popeye arcade game.,True,False
+0,Animals,boolean,easy,A bear does NOT defecate during hibernation. ,True,False
+0,General Knowledge,boolean,easy,Bulls are attracted to the color red.,False,True
+0,Geography,boolean,medium,Gothenburg is the capital of Sweden.,False,True
+0,Art,boolean,medium,Pablo Picasso is one of the founding fathers of &quot;Cubism.&quot;,True,False
+0,History,boolean,hard,The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.,True,False
+0,General Knowledge,boolean,medium,Kissing someone for one minute burns about 2 calories.,True,False
+0,Geography,boolean,medium,There exists an island named &quot;Java&quot;.,True,False
+0,Vehicles,boolean,easy,The full English name of the car manufacturer BMW is Bavarian Motor Works,True,False
+0,Entertainment: Video Games,boolean,medium,"The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",True,False
+0,Entertainment: Video Games,boolean,easy,"In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;",False,True
+0,Science: Computers,boolean,easy,&quot;HTML&quot; stands for Hypertext Markup Language.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,hard,"Throughout the entirety of &quot;Dragon Ball Z&quot;, Goku only kills two characters: a miniboss named Yakon and Kid Buu.",True,False
+0,Entertainment: Music,boolean,hard,The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.,True,False
+0,General Knowledge,boolean,easy,One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.,True,False
+0,Science: Computers,boolean,easy,The Windows ME operating system was released in the year 2000.,True,False
+0,Politics,boolean,hard,Joko Widodo has appeared in the cover of a TIME magazine.,True,False
+0,General Knowledge,boolean,medium,Albert Einstein had trouble with mathematics when he was in school.,False,True
+0,Geography,boolean,easy,California is larger than Japan.,True,False
+0,Entertainment: Video Games,boolean,easy,"In Pok&eacute;mon, Bulbasaur is the only starter pokemon that is a Grass/Poison type.",True,False
+0,Science: Mathematics,boolean,medium,A &#039;Millinillion&#039; is a real number.,True,False
+0,Geography,boolean,easy,Tokyo is the capital of Japan.,True,False
+0,Art,boolean,easy,Leonardo da Vinci was not the creator of the Mona Lisa.,False,True
+0,Politics,boolean,hard,"George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",False,True
+0,Geography,boolean,easy,Hungary is the only country in the world beginning with H.,False,True
+0,Entertainment: Video Games,boolean,easy,The ghosts in &quot;Pac-Man&quot; and &quot;Ms. Pac-Man&quot; have completely different behavior.,True,False
+0,Science & Nature,boolean,easy,Psychology is the science of behavior and mind.,True,False
+0,Entertainment: Video Games,boolean,medium,The character that would eventually become Dr. Eggman was considered for the role of Sega&#039;s new flagship mascot before Sonic was.,True,False
+0,Entertainment: Film,boolean,medium,The movie &quot;Tron&quot; received an Oscar nomination for Best Visual Effects.,False,True
+0,Politics,boolean,medium,"Jeb Bush was elected as Governor of Florida in 2002, starting his political career.",False,True
+0,Science: Computers,boolean,medium,The first computer bug was formed by faulty wires.,False,True
+0,General Knowledge,boolean,easy,The Great Wall of China is visible from the moon.,False,True
+0,Entertainment: Music,boolean,medium,"Rapper Snoop Dogg&#039;s real name is &#039;Cordozar Calvin Broadus, Jr.&#039;.",True,False
+0,Entertainment: Music,boolean,easy,The music video to The Buggle&#039;s &quot;Video Killed the Radio Star&quot; was the first music video to broadcast on MTV.,True,False
+0,Science & Nature,boolean,hard,You can calculate Induced Voltage using: &epsilon; =-N * (d&Phi;B)/(d),False,True
+0,Geography,boolean,easy,Vatican City is a country.,True,False
+0,Art,boolean,easy,Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.,True,False
+0,History,boolean,hard,The Kingdom of Prussia briefly held land in Estonia.,False,True
+0,Entertainment: Music,boolean,medium,"Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",True,False
+0,Entertainment: Board Games,boolean,medium,In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.,False,True
+0,Politics,boolean,easy,"In 2016, the United Kingdom voted to stay in the EU.",False,True
+0,Entertainment: Japanese Anime & Manga,boolean,medium,The animated film &quot;Spirited Away&quot; won the Academy Award for Best Animated Feature at the 75th Academy Awards in 2003.,True,False
+0,General Knowledge,boolean,medium,"The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).",False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.,False,True
+0,Science: Computers,boolean,easy,Ada Lovelace is often considered the first computer programmer.,True,False
+0,Entertainment: Video Games,boolean,medium,"In &quot;Overwatch,&quot; an allied McCree will say &quot;Step right up&quot; upon using his ultimate ability Deadeye.",True,False
+0,Entertainment: Video Games,boolean,easy,The PlayStation was originally a joint project between Sega and Sony that was a Sega Genesis with a disc drive.,False,True
+0,Animals,boolean,easy,"In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",True,False
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In the &quot;Melancholy of Haruhi Suzumiya&quot; series, the narrator goes by the nickname Kyon.",True,False
+0,Entertainment: Video Games,boolean,easy,"In Pok&eacute;mon Sun and Moon, a male Salandit can evolve to a Salazzle.",False,True
+0,General Knowledge,boolean,easy,"Romanian belongs to the Romance language family, shared with French, Spanish, Portuguese and Italian. ",True,False
+0,Geography,boolean,medium,Japan has left-hand side traffic.,True,False
+0,Entertainment: Books,boolean,hard,"Harry Potter was born on July 31st, 1980.",True,False
+0,Sports,boolean,easy,"In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",False,True
+0,Entertainment: Film,boolean,easy,"&quot;Minions&quot; was released on the June 10th, 2015.",False,True
+0,Entertainment: Music,boolean,easy,Scatman John&#039;s real name was John Paul Larkin.,True,False
+0,Science: Computers,boolean,medium,Android versions are named in alphabetical order.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,medium,"In &quot;JoJo&#039;s Bizarre Adventure&quot;, Father Enrico Pucchi uses a total of 3 stands in Part 6: Stone Ocean.",True,False
+0,General Knowledge,boolean,medium,&quot;Santa Claus&quot; is a variety of melon.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,hard,"In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.",True,False
+0,Geography,boolean,easy,"Rhode Island is actually located on the US mainland, despite its name.",True,False
+0,Animals,boolean,medium,You can tell the age of a ladybird by counting the spots on his back.,False,True
+0,Entertainment: Music,boolean,easy,The music group Daft Punk got their name from a negative review they recieved.,True,False
+0,Entertainment: Video Games,boolean,easy,"The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.",False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,Clefairy was intended to be Ash&#039;s starting Pok&eacute;mon in the pilot episode of the cartoon.,True,False
+0,Entertainment: Music,boolean,medium,Soulja Boy&#039;s &#039;Crank That&#039; won a Grammy for Best Rap Song in 2007.,False,True
+0,Entertainment: Video Games,boolean,medium,Super Mario Bros. was released in 1990.,False,True
+0,General Knowledge,boolean,hard,This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.,True,False
+0,Entertainment: Video Games,boolean,easy,"In &quot;Super Mario 64&quot;, collecting 100 coins on a level will give you a 1-UP.",False,True
+0,Entertainment: Video Games,boolean,easy,&quot;Undertale&quot; is an RPG created by Toby Fox and released in 2015.,True,False
+0,Geography,boolean,medium,"The longest place named in the United States is Lake Chargoggagoggmanchauggagoggchaubunagungamaugg, located near Webster, MA.",True,False
+0,Entertainment: Video Games,boolean,easy,"In &quot;Super Mario Bros.&quot;, the clouds and bushes have the same artwork and are just different colors.",True,False
+0,Entertainment: Film,boolean,easy,"In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.",True,False
+0,General Knowledge,boolean,easy,&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.,True,False
+0,General Knowledge,boolean,easy,The color orange is named after the fruit.,True,False
+0,Entertainment: Board Games,boolean,easy,The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.,True,False
+0,General Knowledge,boolean,medium,The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.,False,True
+0,Entertainment: Video Games,boolean,easy,Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.,True,False
+0,General Knowledge,boolean,easy,"In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",True,False
+0,History,boolean,medium,Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.,True,False
+0,Mythology,boolean,medium,The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.,False,True
+0,Science: Computers,boolean,medium,AMD created the first consumer 64-bit processor.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,medium,"The anime Attack on Titan was directed by Tetsurō Araki, the same person who directed the anime Highschool of the Dead.",True,False
+0,History,boolean,medium,United States President Ronald Reagan was the first president to appoint a woman to the Supreme Court. ,True,False
+0,Entertainment: Music,boolean,medium,&quot;The Division Bell&quot; is the final album of the progressive rock band Pink Floyd.,False,True
+0,Entertainment: Video Games,boolean,medium,In Riot Games &quot;League of Legends&quot; the name of Halloween event is called &quot;The Reckoning&quot;.,False,True
+0,Entertainment: Television,boolean,easy,"In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.",True,False
+0,Politics,boolean,medium,"The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",True,False
+0,Politics,boolean,hard,Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.,True,False
+0,Entertainment: Television,boolean,medium,"Klingons respect their disabled comrades, and those who are old, injuried, and helpless.",False,True
+0,Entertainment: Japanese Anime & Manga,boolean,medium,"In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.",True,False
+0,General Knowledge,boolean,easy,The National Animal of Scotland is the Unicorn.,True,False
+0,Mythology,boolean,easy,A wyvern is the same as a dragon.,False,True
+0,Entertainment: Video Games,boolean,easy,&quot;Sonic the Hedgehog 2&quot; originally was going to have a time travel system.,True,False
+0,Entertainment: Music,boolean,medium,"Dave Grohl recorded the Foo Fighters&#039; debut, &quot;Foo Fighters,&quot; by himself.",True,False
+0,Animals,boolean,easy,Rabbits can see what&#039;s behind themselves without turning their heads.,True,False
+0,Entertainment: Board Games,boolean,easy,Snakes and Ladders was originally created in India?,True,False
+0,Entertainment: Film,boolean,easy,Leonardo DiCaprio won an Oscar for Best Actor in 2004&#039;s &quot;The Aviator&quot;.,False,True
+0,Geography,boolean,easy,Greenland is covered with grass and Iceland covered with ice.,False,True
+0,History,boolean,hard,Joseph Stalin&#039;s real name was Ioseb Bessarionis dze Dzugashvili.,True,False
+0,General Knowledge,boolean,medium,There are 86400 seconds in a day.,True,False
+0,Entertainment: Video Games,boolean,hard,"In the game &quot;Melty Blood Actress Again Current Code&quot;, you can enter Blood Heat mode in Half Moon style.",False,True
+0,Entertainment: Video Games,boolean,medium,The Ace Attorney trilogy was suppose to end with &quot;Phoenix Wright: Ace Attorney &minus; Trials and Tribulations&quot; as its final game.,True,False
+0,Sports,boolean,easy,Peyton Manning retired after winning Super Bowl XLIX.,False,True
+0,Entertainment: Video Games,boolean,easy,&quot;Half-Life 2&quot; runs on the Source Engine.,True,False
+0,General Knowledge,boolean,medium,An eggplant is a vegetable.,False,True
+0,Entertainment: Video Games,boolean,easy,Big the Cat is a playable character in &quot;Sonic Generations&quot;.,False,True
+0,Mythology,boolean,easy,"According to Greek Mythology, Zeus can control lightning.",True,False
+0,General Knowledge,boolean,easy,You can legally drink alcohol while driving in Mississippi.,True,False
+0,Entertainment: Video Games,boolean,hard,"In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.",False,True
+0,Geography,boolean,medium,The Sonoran Desert is located in eastern Africa.,False,True
+0,Entertainment: Video Games,boolean,easy,"In Splatoon, the Squid Sisters are named Tako and Yaki.",False,True
+0,Sports,boolean,medium,The Olympics tennis court is a giant green screen.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In Pok&eacute;mon, Ash&#039;s Pikachu refuses to go into a pokeball.",True,False
+0,Entertainment: Video Games,boolean,easy,The end credits sequence in Grand Theft Auto 5 is over half an hour long.,True,False
+0,Entertainment: Video Games,boolean,hard,The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.,True,False
+0,Entertainment: Video Games,boolean,easy,"In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.",True,False
+0,Vehicles,boolean,medium,The General Motors EV1 was the first street-legal production electric vehicle.,False,True
+0,Entertainment: Video Games,boolean,medium,Pistons were added to Minecraft in Beta 1.5.,False,True
+0,Science: Computers,boolean,medium,The last Windows operating system to be based on the Windows 9x kernel was Windows 98.,False,True
+0,Entertainment: Board Games,boolean,easy,&quot;PAYDAY: The Heist&quot; is a sequel to the board game &quot;Payday&quot;.,False,True
+0,General Knowledge,boolean,medium,Fast food restaurant chains Carl&#039;s Jr. and Hardee&#039;s are owned by the same company.,True,False
+0,Entertainment: Television,boolean,medium,"Like his character in &quot;Parks and Recreation&quot;, Aziz Ansari was born in South Carolina.",True,False
+0,Science & Nature,boolean,hard,The chemical element Lithium is named after the country of Lithuania.,False,True
+0,Entertainment: Japanese Anime & Manga,boolean,hard,Druid is a mage class in &quot;Log Horizon&quot;.,False,True
+0,Entertainment: Video Games,boolean,easy,"In Heroes of the Storm, the Cursed Hollow map gimmick requires players to kill the undead to curse the enemy team.",False,True
+0,Entertainment: Television,boolean,hard,The Klingon home planet is Qo&#039;noS.,True,False
+0,Entertainment: Board Games,boolean,medium,&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.,False,True
+0,Entertainment: Music,boolean,hard,"Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.",False,True
+0,Entertainment: Video Games,boolean,easy,The game &quot;Pocket Morty&quot; has a Morty called &quot;Pocket Mortys Morty&quot;?,True,False
+0,Vehicles,boolean,medium,The majority of Subaru vehicles are made in China.,False,True
+0,Entertainment: Video Games,boolean,medium,Nintendo started out as a playing card manufacturer.,True,False
+0,Entertainment: Video Games,boolean,easy,The song &quot;Megalovania&quot; by Toby Fox made its third appearence in the 2015 RPG &quot;Undertale&quot;.,True,False
+0,Entertainment: Music,boolean,medium,Arcade Fire&#039;s &#039;The Suburbs&#039; won the Album of the Year award in the 2011 Grammys.,True,False
+0,Entertainment: Video Games,boolean,easy,"In &quot;Mario Kart 64&quot;, Waluigi is a playable character.",False,True
+0,Animals,boolean,medium,"&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;",True,False
+0,Science & Nature,boolean,medium,A defibrillator is used to start up a heartbeat once a heart has stopped beating.,False,True
+0,Science: Computers,boolean,medium,"To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ",True,False
+0,Politics,boolean,easy,Denmark has a monarch.,True,False
+0,Science: Mathematics,boolean,hard,"If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.",True,False
+0,Entertainment: Video Games,boolean,easy,"Gordon Freeman, the protagonist of &quot;Half-Life&quot;, is said to have once had a ponytail.",True,False
+0,Entertainment: Comics,boolean,easy,Deadpool&#039;s identity is Slade Wilson.,False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,No Game No Life first aired in 2014.,True,False
+0,Geography,boolean,easy,Toronto is the capital city of the North American country of Canada.,False,True
+0,General Knowledge,boolean,easy,"When you cry in space, your tears stick to your face.",True,False
+0,Science: Computers,boolean,easy,The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.,False,True
+0,Animals,boolean,easy,A caterpillar has more muscles than humans do.,True,False
+0,Science: Mathematics,boolean,medium,Zero factorial is equal to zero. ,False,True
+0,Politics,boolean,medium,Helen Clark was the 37th Prime Minister of Australia.,False,True
+0,Entertainment: Video Games,boolean,easy,Activision created Battlefield 1.,False,True
+0,Geography,boolean,hard,The two largest ethnic groups of Belgium are Flemish and Walloon. ,True,False
+0,Entertainment: Music,boolean,medium,"Musical artist, Future, collaborated with Kendrick Lamar for the song: &quot;Mask Off&quot;.",True,False
+0,Science: Mathematics,boolean,easy,An equilateral triangle always has every angle measuring 60&deg;.,True,False
+0,Entertainment: Video Games,boolean,hard,"In &quot;The Sims&quot; series, the most members in a household you can have is 8.",True,False
+0,Entertainment: Film,boolean,easy,"The film &quot;2001: A Space Odyssey&quot; was released on December 31st, 2000.",False,True
+0,Science: Computers,boolean,medium,The very first recorded computer &quot;bug&quot; was a moth found inside a Harvard Mark II computer.,True,False
+0,General Knowledge,boolean,easy,It is automatically considered entrapment in the United States if the police sell you illegal substances without revealing themselves.,False,True
+0,Science: Mathematics,boolean,easy,The &#039;Squaring the Circle&#039; problem is solvable.,False,True
+0,Geography,boolean,medium,The Southeast Asian island of Borneo is politically divided among 3 countries.,True,False
+0,Entertainment: Video Games,boolean,easy,Niko Bellic is the protagonist of Grand Theft Auto IV.,True,False
+0,Entertainment: Video Games,boolean,medium,"In Half-Life 2, if you play the zombies&#039; speech in reverse, they actually speak coherent English.",True,False
+0,History,boolean,easy,Adolf Hitler was a german soldier in World War I.,True,False
+0,Science: Computers,boolean,hard,DHCP stands for Dynamic Host Configuration Port.,False,True
+0,History,boolean,medium,Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ,True,False
+0,Animals,boolean,medium,The Platypus is a mammal.,True,False
+0,Science: Computers,boolean,medium,It&#039;s not possible to format a write-protected DVD-R Hard Disk.,True,False
+0,Entertainment: Video Games,boolean,easy,"The Konami Code is known as Up, Up, Down, Down, Left, Right, Right, Left, B, A, Start.",False,True
+0,Entertainment: Video Games,boolean,easy,"In &quot;Undertale&quot;, the main character of the game is Sans.",False,True
+0,Entertainment: Video Games,boolean,easy,Valve&#039;s &quot;Portal&quot; and &quot;Half-Life&quot; franchises exist within the same in-game universe.,True,False
+0,Entertainment: Video Games,boolean,medium,Resident Evil 4 was originally meant to be a Nintendo GameCube exclusive.,True,False
+0,General Knowledge,boolean,hard,Stagecoach owned &quot;South West Trains&quot; before losing the rights to FirstGroup and MTR in March of 2017.,True,False
+0,Entertainment: Video Games,boolean,medium,"In &quot;Call Of Duty: World At War&quot;, the first appearance of the &quot;PPSH-41&quot; in &quot;Zombies&quot; was in the map &quot;Der Riese&quot;.",False,True
+0,Entertainment: Music,boolean,hard,The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).,True,False
+0,Entertainment: Cartoon & Animations,boolean,medium,Nutcracker Suite was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.,True,False
+0,Science & Nature,boolean,easy,A plant that has a life cycle for more than a year is known as an annual.,False,True
+0,Animals,boolean,medium,An octopus can fit through any hole larger than its beak.,True,False
+0,Entertainment: Video Games,boolean,easy,"The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",True,False
+0,Geography,boolean,easy,The Republic of Malta is the smallest microstate worldwide.,False,True
+0,Entertainment: Film,boolean,medium,There aren&#039;t any live-action clones in &quot;Star Wars: Episode III - Revenge of the Sith&quot;.,True,False
+0,Animals,boolean,easy,Kangaroos keep food in their pouches next to their children.,False,True
+0,Entertainment: Video Games,boolean,easy,In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.,True,False
+0,Science & Nature,boolean,easy,Salt is 100% composed of Sodium.,False,True
+0,Science & Nature,boolean,easy,An atom contains a nucleus.,True,False
+0,Science & Nature,boolean,medium,"Centripedal force is an apparent force that acts outward on a body moving around a center, arising from the body&#039;s inertia.",False,True
+0,Science: Computers,boolean,medium,Early RAM was directly seated onto the motherboard and could not be easily removed.,True,False
+0,Entertainment: Film,boolean,easy,Brandon Routh plays the titular character in the movie &quot;John Wick&quot;.,False,True
+0,Entertainment: Television,boolean,medium,"In &quot;Star Trek&quot;, Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.",True,False
+0,Entertainment: Video Games,boolean,medium,"In Portal, the Companion Cube&#039;s ARE sentient.",True,False
+0,Entertainment: Video Games,boolean,medium,"In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.",True,False
+0,Science: Mathematics,boolean,easy,The sum of any two odd integers is odd.,False,True
+0,General Knowledge,boolean,easy,Scotland voted to become an independent country during the referendum from September 2014.,False,True
+0,Geography,boolean,easy,New Haven is the capital city of the state of Connecticut in the United States.,False,True
+0,Science & Nature,boolean,medium,Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.,True,False
+0,Entertainment: Video Games,boolean,medium,"In the Season One Championship of &quot;Leauge of Legends&quot;, the highest achievable rank was Diamond.",False,True
+0,Science & Nature,boolean,medium,Sound can travel through a vacuum.,False,True
+0,Sports,boolean,easy,Manchester United won the 2013-14 English Premier League.,False,True
+0,History,boolean,medium,"In World War II, Hawker Typhoons served in the Pacific theater.",False,True
+0,Science: Mathematics,boolean,medium,"The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",True,False
+0,Entertainment: Film,boolean,medium,The colour of the pills in the Matrix were Blue and Yellow.,False,True
+0,Geography,boolean,medium,Vietnam is the only country in the world that starts with V. ,False,True
+0,History,boolean,easy,"United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.",False,True
+0,Entertainment: Video Games,boolean,easy,Solid Snake is actually a clone from the DNA of Big Boss in the Metal Gear Solid series&#039; history.,True,False
+0,Science & Nature,boolean,medium,"Scientists accidentally killed the once known world&#039;s oldest living creature, a mollusc, known to be aged as 507 years old.",True,False
+0,Politics,boolean,easy,Russia passed a law in 2013 which outlaws telling children that homosexuals exist.,True,False
+0,History,boolean,hard,"The Battle of Trafalgar took place on October 23rd, 1805",False,True
+0,Science: Mathematics,boolean,medium,E = MC3,False,True
+0,Vehicles,boolean,medium,Bugatti was an Italian car manufacturer.,False,True
+0,Entertainment: Music,boolean,easy,Stevie Wonder&#039;s real name is Stevland Hardaway Morris.,True,False
+0,Entertainment: Video Games,boolean,medium,David Baszucki was a co-founder of ROBLOX Corporation.,True,False
+0,History,boolean,hard,The USS Missouri (BB-63) last served in the Korean War.,False,True
+0,Sports,boolean,easy,"In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",False,True
+0,Entertainment: Video Games,boolean,medium,"In &quot;Super Mario World&quot;, the rhino mini-boss, Reznor, is named after the lead singer of the band &quot;Nine Inch Nails&quot;.",True,False
+0,Science: Mathematics,boolean,hard,"In Topology, the complement of an open set is a closed set.",True,False
+0,Entertainment: Japanese Anime & Manga,boolean,hard,"In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.",True,False
+0,Entertainment: Music,boolean,easy,The 2011 movie &quot;The Adventures of Tintin&quot; was directed by Steven Spielberg.,True,False
+0,Science: Mathematics,boolean,easy,A scalene triangle has two sides of equal length.,False,True
+0,General Knowledge,boolean,medium,Popcorn was invented in 1871 by Frederick W. Rueckheim in the USA where he sold the snack on the streets of Chicago.,False,True
+0,Geography,boolean,easy,"There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.",True,False
+0,Science & Nature,boolean,medium,The Neanderthals were a direct ancestor of modern humans.,False,True
+0,Science & Nature,boolean,medium,The Doppler effect applies to light.,True,False
+0,General Knowledge,boolean,medium,Coca-Cola&#039;s original colour was green.,False,True
+0,Entertainment: Books,boolean,easy,The book 1984 was published in 1949.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In Kill La Kill, the weapon of the main protagonist is a katana. ",False,True
+0,General Knowledge,boolean,easy,The Sun rises from the North.,False,True
+0,History,boolean,medium,The Hundred Years&#039; War was fought for more than a hundred years.,True,False
+0,Entertainment: Television,boolean,medium,"Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.",True,False
+0,History,boolean,hard,"During the Winter War, the amount of Soviet Union soliders that died or went missing was five times more than Finland&#039;s.",True,False
+0,Celebrities,boolean,easy,Tupac Shakur died due to complications from being stabbed in 1996.,False,True
+0,Animals,boolean,medium,Finnish Lapphund dogs were used for herding reindeer.,True,False
+0,Science & Nature,boolean,medium,A person can get sunburned on a cloudy day.,True,False
+0,Mythology,boolean,easy,"In Norse mythology, Thor once dressed as a woman.",True,False
+0,Entertainment: Musicals & Theatres,boolean,easy,"In the play Oedipus Rex, Oedipus kills his father due to jealousy in loving his mother.",False,True
+0,Politics,boolean,easy,There was a satirical candidate named &quot;Deez Nuts&quot; running in the 2016 US presidential elections.,True,False
+0,Science: Computers,boolean,easy,The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.,False,True
+0,Entertainment: Comics,boolean,hard,"In the comic book &quot;Archie&quot;, Betty is friends with Veronica because she is rich.",False,True
+0,General Knowledge,boolean,medium,"The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.",True,False
+0,Science: Computers,boolean,easy,RAM stands for Random Access Memory.,True,False
+0,Entertainment: Video Games,boolean,hard,"In &quot;Metal Gear Solid 2&quot;, you will see through the eyes of Psycho Mantis if you go first person during his boss fight.",True,False
+0,Entertainment: Video Games,boolean,easy,The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.,True,False
+0,Geography,boolean,medium,&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.,False,True
+0,Mythology,boolean,hard,Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.,True,False
+0,Entertainment: Music,boolean,easy,"The alternative rock band, They Might Be Giants, released their album &#039;Flood&#039; in 1990. ",True,False
+0,Entertainment: Video Games,boolean,easy,The names of Tom Nook&#039;s cousins in the Animal Crossing franchise are named &quot;Timmy&quot; and &quot;Jimmy&quot;.,False,True
+0,Entertainment: Video Games,boolean,easy,"In Terraria, you can craft the Cell Phone pre-hardmode.",True,False
+0,Entertainment: Music,boolean,medium,"For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his &quot;Mothership&quot; set piece for one night only.",True,False
+0,Entertainment: Cartoon & Animations,boolean,medium,Nickelodeon rejected the pilot to Adventure Time.,True,False
+0,Entertainment: Television,boolean,easy,"In &quot;Star Trek&quot;, Klaang is a typical Klingon male.",True,False
+0,Geography,boolean,easy,Nova Scotia is on the east coast of Canada.,True,False
+0,Science: Computers,boolean,medium,FLAC stands for &quot;Free Lossless Audio Condenser&quot;&#039;,False,True
+0,Entertainment: Video Games,boolean,easy,English new wave musician Gary Numan founded the video game development company Facepunch Studios in March 2009.,False,True
+0,General Knowledge,boolean,easy,French is an official language in Canada.,True,False
+0,Entertainment: Video Games,boolean,easy,Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.,True,False
+0,Entertainment: Video Games,boolean,medium,Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.,True,False
+0,Science & Nature,boolean,medium,Anatomy considers the forms of macroscopic structures such as organs and organ systems.,True,False
+0,Animals,boolean,easy,Rabbits are rodents.,False,True
+0,Politics,boolean,medium,George W. Bush lost the popular vote in the 2004 United States presidential election.,False,True
+0,Entertainment: Music,boolean,medium,"3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",True,False
+0,Science & Nature,boolean,easy,"Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",False,True
+0,Entertainment: Cartoon & Animations,boolean,medium,Night on Bald Mountain was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.,True,False
+0,Science: Computers,boolean,medium,The HTML5 standard was published in 2014.,True,False
+0,Animals,boolean,easy,A slug&rsquo;s blood is green.,True,False
+0,History,boolean,easy,The Spitfire originated from a racing plane.,True,False
+0,General Knowledge,boolean,easy,A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.,False,True
+0,Entertainment: Video Games,boolean,easy,Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.,True,False
+0,Animals,boolean,easy,A flock of crows is known as a homicide.,False,True
+0,Science: Computers,boolean,easy,The Windows 7 operating system has six main editions.,True,False
+0,Entertainment: Video Games,boolean,easy,"In Pok&eacute;mon, Arbok evolves into Seviper.",False,True
+0,Geography,boolean,medium,Norway has a larger land area than Sweden.,False,True
+0,Entertainment: Board Games,boolean,hard,The board game Go has more possible legal positions than the number of atoms in the visible universe.,True,False
+0,Entertainment: Film,boolean,easy,Actor Tommy Chong served prison time.,True,False
+0,Science & Nature,boolean,easy,Igneous rocks are formed by excessive heat and pressure.,False,True
+0,Entertainment: Video Games,boolean,medium,"In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",False,True
+0,General Knowledge,boolean,hard,"In Scandinavian languages, the letter &Aring; means river.",True,False
+0,Politics,boolean,easy,Donald Trump won the popular vote in the 2016 United States presidential election.,False,True
+0,Entertainment: Television,boolean,medium,Bob Ross was a US Air Force pilot.,False,True
+0,General Knowledge,boolean,easy,"&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",True,False
+0,General Knowledge,boolean,hard,"Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.",True,False
+0,Science & Nature,boolean,easy,"Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",False,True
+0,Entertainment: Cartoon & Animations,boolean,medium,Blue Danube was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.,False,True
+0,Geography,boolean,easy,Greenland is almost as big as Africa.,False,True
+0,General Knowledge,boolean,medium,The sum of all the numbers on a roulette wheel is 666.,True,False
+0,Entertainment: Video Games,boolean,hard,The first &quot;Metal Gear&quot; game was released for the PlayStation 1.,False,True
+0,Science: Mathematics,boolean,hard,The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;,False,True
+0,General Knowledge,boolean,medium,Cucumbers are usually more than 90% water.,True,False
+0,Entertainment: Video Games,boolean,hard,"In &quot;Portal 2&quot;, Cave Johnson started out Aperture Science as a shower curtain company.",True,False
+0,General Knowledge,boolean,medium,Sitting for more than three hours a day can cut two years off a person&#039;s life expectancy.,True,False
+0,General Knowledge,boolean,medium,The French word to travel is &quot;Travail&quot;,False,True
+0,Entertainment: Music,boolean,hard,The band STRFKR was also briefly known as Pyramiddd.,True,False
+0,Science & Nature,boolean,easy,An average human can go two weeks without water.,False,True
+0,Entertainment: Music,boolean,easy,Michael Jackson wrote The Simpsons song &quot;Do the Bartman&quot;.,False,True
+0,Entertainment: Video Games,boolean,easy,"In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",False,True
+0,General Knowledge,boolean,medium,Francis Bacon died from a fatal case of pneumonia while he was attempting to preserve meat by stuffing a chicken with snow.,True,False
+0,Entertainment: Film,boolean,easy,"Han Solo&#039;s co-pilot and best friend, &quot;Chewbacca&quot;, is an Ewok.",False,True
+0,Entertainment: Video Games,boolean,easy,There are 6 legendary cards in &quot;Clash Royale&quot;.,False,True
+0,Animals,boolean,medium,The average lifespan of a wildcat is only around 5-6 years. ,False,True
+0,Entertainment: Books,boolean,easy,Stephen Chbosky wrote the book &#039;The Perks of Being A Wallflower&#039;.,True,False
+0,Entertainment: Board Games,boolean,easy,"There is a Donald Trump Board Game, which was made in 1989.",True,False
+0,Entertainment: Film,boolean,easy,"In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",True,False
+0,Entertainment: Video Games,boolean,medium,"In Monster Hunter Generations, guild style is a type of hunting style.",True,False
+0,Science: Computers,boolean,medium,"Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.",False,True
+0,Entertainment: Music,boolean,medium,Nick Mason is the only member to appear on every Pink Floyd album.,True,False
+0,Sports,boolean,medium,"During Wimbledon, spectators in the grounds can buy the tennis balls that have been used in matches.",True,False
+0,Science: Computers,boolean,easy,Linus Torvalds created Linux and Git.,True,False
+0,Entertainment: Film,boolean,easy,The word &quot;Inception&quot; came from the 2010 blockbuster hit &quot;Inception&quot;.,False,True
+0,Science & Nature,boolean,medium,Type 1 diabetes is a result of the liver working improperly.,False,True
+0,Entertainment: Video Games,boolean,easy,"In &quot;Super Mario 3D World&quot;, the Double Cherry power-up originated from a developer accidentally making two characters controllable.",True,False
+0,History,boolean,medium,"In 1967, a magazine published a story about extracting hallucinogenic chemicals from bananas to raise moral questions about banning drugs.",True,False
+0,Entertainment: Comics,boolean,medium,"In the webcomic Homestuck, the first character introduced is Dave Strider.",False,True
+0,Geography,boolean,medium,Liechtenstein does not have an airport.,True,False
+0,Entertainment: Video Games,boolean,medium,Mortal Kombat was almost based on Jean-Claude Van Damme movie.,True,False
+0,Sports,boolean,medium,"In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.",True,False
+0,Celebrities,boolean,medium,Michael Jackson had a pet python named &lsquo;Crusher&rsquo;.,True,False
+0,Geography,boolean,easy,San Marino is the only country completely surrounded by another country.,False,True
+0,Geography,boolean,medium,Israel is 7 hours ahead of New York.,True,False
+0,History,boolean,medium,Assyrian king Sennacherib&#039;s destruction of Babylon in 689 BCE was viewed as a triumph by other Assyrian citizens.,False,True
+0,General Knowledge,boolean,hard,&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.,True,False
+0,Celebrities,boolean,easy,"Marilyn Monroe was born on July 1, 1926.",False,True
+0,Entertainment: Television,boolean,medium,An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.,True,False
+0,Science: Mathematics,boolean,medium,"111,111,111 x 111,111,111 = 12,345,678,987,654,321",True,False
+0,History,boolean,medium,"If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",True,False
+0,Entertainment: Cartoon & Animations,boolean,medium,Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.,False,True
+0,Art,boolean,medium,"Venus of Willendorf is one of the earliest works of art, depicting the planets Mars and Venus embrace in the heavens at night.",False,True
+0,General Knowledge,boolean,medium,The US emergency hotline is 911 because of the September 11th terrorist attacks.,False,True
+0,Sports,boolean,medium,Soccer player Cristiano Ronaldo opened a museum dedicated to himself.,True,False
+0,Entertainment: Video Games,boolean,easy,"In &quot;Sonic Adventure&quot;, you are able to transform into Super Sonic at will after completing the main story.",False,True
+0,Entertainment: Film,boolean,easy,Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.,True,False
+0,Entertainment: Video Games,boolean,easy,The main playable character of the 2015 RPG &quot;Undertale&quot; is a monster.,False,True
+0,General Knowledge,boolean,hard,Pluto is a planet.,False,True
+0,Entertainment: Television,boolean,easy,"In &quot;Doctor Who&quot;, the Doctor gets his TARDIS by stealing it.",True,False
+0,Science: Mathematics,boolean,medium,You can square root a negative number with an imaginary number &quot;i&quot;.,True,False
+0,Entertainment: Music,boolean,medium,Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.,False,True
+0,Vehicles,boolean,hard,In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.,True,False
+0,General Knowledge,boolean,medium,&quot;Typewriter&quot; is the longest word that can be typed using only the first row on a QWERTY keyboard.,True,False
+0,Entertainment: Video Games,boolean,hard,Unturned originally started as a Roblox game.,True,False
+0,Science: Computers,boolean,easy,Pointers were not used in the original C programming language; they were added later on in C++.,False,True
+0,General Knowledge,boolean,medium,Furby was released in 1998.,True,False
+0,Entertainment: Video Games,boolean,easy,Tetris is the #1 best-selling video game of all-time.,True,False
+0,History,boolean,easy,Adolf Hitler was tried at the Nuremberg trials.,False,True
+0,History,boolean,medium,Adolf Hitler was accepted into the Vienna Academy of Fine Arts.,False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,Kiznaiver is an adaptation of a manga.,False,True
+0,Entertainment: Video Games,boolean,medium,&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.,False,True
+0,Entertainment: Video Games,boolean,hard,The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.,True,False
+0,History,boolean,medium,The M41 Walker Bulldog remains in service in some countries to this day.,True,False
+0,Art,boolean,medium,Vincent van Gogh cut off one of his ears.,True,False
+0,Science: Computers,boolean,medium,The open source program Redis is a relational database server.,False,True
+0,Vehicles,boolean,medium,"When BMW was established in 1916, it was producing automobiles.",False,True
+0,Science: Mathematics,boolean,hard,L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.,False,True
+0,Entertainment: Video Games,boolean,easy,"Several characters in &quot;Super Mario 64&quot; blink their eyes, including Mario himself.",True,False
+0,Animals,boolean,easy,The Axolotl is an amphibian that can spend its whole life in a larval state.,True,False
+0,Science & Nature,boolean,medium,Chickens can live without a head.,True,False
+0,Sports,boolean,medium,Skateboarding will be included in the 2020 Summer Olympics in Tokyo.,True,False
+0,Entertainment: Video Games,boolean,easy,"In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",False,True
+0,Entertainment: Video Games,boolean,easy,"In the game &quot;Subnautica&quot;, a &quot;Spadefish&quot; will attack you.",False,True
+0,Entertainment: Film,boolean,medium,Sean Connery wasn&#039;t in &quot;Indiana Jones and the Kingdom of the Crystal Skull&quot; because he found retirement too enjoyable.,True,False
+0,Science: Computers,boolean,easy,Time on Computers is measured via the EPOX System.,False,True
+0,History,boolean,medium,Martin Luther King Jr. and Anne Frank were born the same year. ,True,False
+0,History,boolean,easy,Thomas Crapper was a plumber who invented the flushing toilet.,False,True
+0,Science: Mathematics,boolean,easy,An isosceles triangle has two sides of equal length as opposed to three.,True,False
+0,General Knowledge,boolean,easy,Nutella is produced by the German company Ferrero.,False,True
+0,History,boolean,easy,"The United States of America declared their independence from the British Empire on July 4th, 1776.",True,False
+0,Entertainment: Video Games,boolean,easy,"In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",True,False
+0,General Knowledge,boolean,easy,Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.,False,True
+0,Entertainment: Video Games,boolean,medium,Hidden in the files for &quot;Mario Kart Arcade GP&quot; is a picture of the Beslan school hostage crisis.,True,False
+0,General Knowledge,boolean,easy,A pasodoble is a type of Italian pasta sauce.,False,True
+0,Geography,boolean,medium,The flag of South Africa features 7 colours.,False,True
+0,Entertainment: Video Games,boolean,hard,"TF2: Sentry rocket damage falloff is calculated based on the distance between the sentry and the enemy, not the engineer and the enemy",False,True
+0,Science: Gadgets,boolean,medium,The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.,False,True
+0,Entertainment: Film,boolean,hard,"&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.",False,True
+0,Politics,boolean,easy,One of Barack Obama&#039;s United States presidential campaign slogan&#039;s was &quot;Yes We Can&quot;.,True,False
+0,Entertainment: Video Games,boolean,medium,"In &quot;Call Of Duty: Zombies&quot;, you can upgrade the &quot;Apothicon Servant&quot; in the &quot;Shadows Of Evil&quot; map.",False,True
+0,Entertainment: Video Games,boolean,medium,The scrapped Sonic the Hedgehog 2 level &quot;Hidden Palace Zone&quot; was later reused in the iOS port of the game. ,True,False
+0,Entertainment: Video Games,boolean,medium,Amazon acquired Twitch in August 2014 for $970 million dollars.,True,False
+0,Geography,boolean,easy,St. Louis is the capital of the US State Missouri.,False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In the &quot;To Love-Ru&quot; series, Golden Darkness is sent to kill Lala Deviluke.",False,True
+0,History,boolean,easy,The Tiananmen Square protests of 1989 were held in Hong Kong.,False,True
+0,Entertainment: Video Games,boolean,medium,The ADAM collecters in the Bioshock series are known as Little Sisters.,True,False
+0,Entertainment: Video Games,boolean,medium,"In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",True,False
+0,Entertainment: Video Games,boolean,medium,DragonForce&#039;s &#039;Through the Fire and Flames&#039; is widely considered to be the hardest song in the Guitar Hero series.,True,False
+0,Entertainment: Video Games,boolean,medium,The first Maxis game to feature the fictional language &quot;Simlish&quot; was The Sims (2000).,False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,Gosho Aoyama Made This Series: (Detective Conan / Case Closed!),True,False
+0,General Knowledge,boolean,medium,The vapor produced by e-cigarettes is actually water.,False,True
+0,Entertainment: Music,boolean,easy,American rapper Dr. Dre actually has a Ph.D. doctorate.,False,True
+0,History,boolean,easy,The United States was a member of the League of Nations.,False,True
+0,Mythology,boolean,easy,"According to Greek Mythology, Atlas was an Olympian God.",False,True
+0,Entertainment: Film,boolean,hard,The weapon Clint Eastwood uses in &quot;Dirty Harry&quot; was a .44 Automag.,False,True
+0,Science: Mathematics,boolean,medium,The set of all algebraic numbers is countable.,True,False
+0,General Knowledge,boolean,medium,The British organisation CAMRA stands for The Campaign for Real Ale.,True,False
+0,History,boolean,hard,Japan was part of the Allied Powers during World War I.,True,False
+0,Entertainment: Comics,boolean,easy,The &quot;Pepe&quot; meme originated from a comic drawn by Matt Furie called &quot;Boy&#039;s Club&quot;?,True,False
+0,Geography,boolean,easy,Alaska is the largest state in the United States.,True,False
+0,Entertainment: Video Games,boolean,medium,&quot;Metal Gear Solid 3: Snake Eater&quot; takes place on Shadow Moses Island.,False,True
+0,Mythology,boolean,medium,"According to Norse mythology, Loki is a mother.",True,False
+0,Entertainment: Film,boolean,easy,The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.,True,False
+0,General Knowledge,boolean,medium,The French word for &quot;glass&quot; is &quot;glace&quot;.,False,True
+0,Entertainment: Film,boolean,medium,The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.,True,False
+0,General Knowledge,boolean,easy,Vietnam&#039;s national flag is a red star in front of a yellow background.,False,True
+0,Animals,boolean,easy,Cats have whiskers under their legs.,True,False
+0,Entertainment: Japanese Anime & Manga,boolean,easy,Studio Ghibli is a Japanese animation studio responsible for the films &quot;Wolf Children&quot; and &quot;The Boy and the Beast&quot;.,False,True
+0,Entertainment: Television,boolean,medium,"In &quot;Star Trek&quot;, Klingons are commonly referred to as &quot;Black Elves&quot;.",False,True
+0,Entertainment: Books,boolean,easy,The &quot;Berenstein Bears&quot; is the correct spelling of the educational children&#039;s book series&#039; name.,False,True
+0,General Knowledge,boolean,medium,The commercial UK channel ITV stands for &quot;International Television&quot;.,False,True
+0,Sports,boolean,medium,Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.,True,False
+0,History,boolean,easy,Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.,True,False
+0,Entertainment: Film,boolean,medium,"Joan Cusack starred in the 2009 disaster movie, &quot;2012&quot;.",False,True
+0,Entertainment: Japanese Anime & Manga,boolean,easy,"In the 1988 film &quot;Akira&quot;, Tetsuo ends up destroying Tokyo.",True,False
+0,History,boolean,easy,Kublai Khan is the grandchild of Genghis Khan?,True,False

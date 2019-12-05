@@ -1,0 +1,128 @@
+question,minority_percentage,real_expert_number,P_expert_number_rT,P_expert_number_rF
+'Cheval' is French for 'cow',0.41025641025641046,0.0,0,9
+10 - Malignant melanoma 3 (SSM).jpg,0.12153846153846158,0.0,0,0
+11 - Benign hemangioma.jpg,0.11166666666666665,2.0,0,0
+15- Malignant ListaImagens\basal_cell_carcinoma102.jpg,0.12000000000000004,0.0,0,0
+19 - Benign eclipse_nevus_7_080322.jpg,0.16666666666666666,0.0,0,0
+19 - Malignant ListaImagens\basal_cell_carcinoma133.jpg,0.2416,0.0,4,4
+2 - benign trichoblastoma.jpg,0.11416666666666668,5.0,0,4
+2 - maligant basal cell carcinoma morpheform.jpg,0.12230769230769228,0.0,0,3
+21 - Malignant ListaImagens\basal_cell_carcinoma163.jpg,0.24120000000000005,0.0,0,2
+22 - Malignant ListaImagens\basal_cell_carcinoma16.jpg,0.2307692307692308,3.0,0,0
+23 - Benign ListaImagens\Angiokeratoma-Solitary_Angiokeratoma2.jpg,0.24080000000000004,2.0,0,0
+27 - Malignant ListaImagens\basal_cell_carcinoma90.jpg,0.24000000000000013,0.0,0,0
+28 - Malignant Squamous Cell Carcinoma ListaImagens\Bowen's_Disease4.jpg,0.12000000000000004,0.0,0,0
+3 - benign dermatofibroma.jpg,0.24000000000000013,0.0,0,5
+30 - Malignant ListaImagens\melanocytic_naevi_intrademal1.jpg,0.2307692307692308,3.0,0,0
+33 - Malignant ListaImagens\melanoma14.jpg,0.1538461538461538,2.0,0,0
+37 - Benign ListaImagens\granuloma_pyogenic11.jpg,0.2800000000000002,0.0,3,4
+37 - Malignant ListaImagens\melanoma70.jpg,0.24279999999999993,0.0,2,6
+4 - benign xanthogranuloma.jpg,0.48000000000000026,0.0,10,11
+4 - malignant superficial spreading melanoma.jpg,0.24000000000000013,0.0,0,0
+41 - Malignant ListaImagens\fibroxanthoma-atypical_fibroxanthoma1.jpg,0.16000000000000003,4.0,0,2
+43 - Benign ListaImagens\impetigo12 .jpg,0.4166666666666667,0.0,0,0
+43 - Malignant ListaImagens\keratoacanthoma4.jpg,0.12076923076923075,0.0,0,0
+46 - Malignant ListaImagens\squamous_cell_carcinoma12.jpg,0.12000000000000006,3.0,1,1
+47 - Benign ListaImagens\lichen_planus-vesicular3.jpg,0.16000000000000003,0.0,0,2
+47 - Malignant ListaImagens\squamous_cell_carcinoma42.jpg,0.12153846153846158,0.0,0,2
+48 - Malignant ListaImagens\squamous_cell_carcinoma67.jpg,0.24319999999999994,0.0,3,7
+50 - Malignant ListaImagens\Melanoma43.jpg,0.12000000000000004,0.0,0,0
+52 - Benign ListaImagens\pityriasis_lichenoides_et_varioliformis_acuta19.jpg,0.3333333333333333,0.0,1,1
+54 - Malignant ListaImagens\squamous_cell_carcinoma57.jpg,0.48000000000000026,12.0,0,5
+57 - Malignant ListaImagens\basal_cell_carcinoma119.jpg,0.24000000000000013,0.0,0,0
+6 - Malignant Melanoma superficial diseminante2 (SSM).jpg,0.24000000000000013,0.0,0,0
+60 - Benign ListaImagens\tungiasis9.jpg,0.32000000000000006,0.0,0,0
+61 - Benign ListaImagens\warts_filiformis5.jpg,0.4166666666666667,0.0,0,4
+A lightyear is a unit of distance,0.38102564102564085,0.0,1,0
+A muon has negative electric charge,0.46153846153846145,18.0,9,14
+Abkhazia is a disputed territory in Georgia.,0.3835897435897434,0.0,0,14
+Alabama,0.3242424242424242,14.0,10,14
+Alaska,0.39393939393939403,0.0,0,0
+Albert Einstein never won a Nobel Prize in Physics,0.3333333333333335,0.0,5,9
+Alexander the Great became Pharaoh of Egypt,0.3846153846153849,15.0,0,7
+Arkansas,0.32242424242424234,0.0,0,5
+Avogadro's constant is greater than Planck's constant,0.3838461538461538,0.0,5,11
+Benign Blue nevus - 2378 005952HB.jpg,0.40000000000000013,0.0,0,3
+Benign Blue nevus_ 5173 021329HB-1.jpg,0.11083333333333334,1.0,0,0
+Benign Compund nevus - 3803 011213HB.jpg,0.24439999999999995,11.0,0,10
+Benign Compund nevus 2729 045115HB.jpg,0.3333333333333333,0.0,0,0
+Benign Compund nevus- 5297  011653HB.jpg,0.40000000000000013,0.0,0,5
+Benign Congenital nevus - 2135 011289HB.jpg,0.4166666666666667,0.0,0,0
+Benign Intradermal nevus - 5680 046343HB.jpg,0.24080000000000004,2.0,2,2
+Benign Nevus cell nevus  1657 000363HB.jpg,0.11083333333333334,1.0,0,0
+Benign compund nevus - 6111 045676HB.jpg,0.2800000000000002,0.0,5,1
+Benign intradermal nevus_edited 3019 010381HB.jpg,0.5,0.0,0,5
+Benign keratosis _ 5402 012360HB.jpg,0.08000000000000002,0.0,0,0
+Benign nevus cell nevus _ 4192 000360HB.jpg,0.08333333333333333,0.0,0,0
+Blackbeard had a wooden leg,0.3846153846153849,18.0,14,0
+Brass is an alloy of Copper and Mercury,0.41025641025641046,0.0,0,12
+Centipedes are considered insects,0.3835897435897434,14.0,3,0
+China borders the same number of countries as Russia,0.41025641025641046,16.0,0,14
+Colorado,0.32090909090909087,0.0,3,3
+Columbus crossed the Atlantic in the Mary Rose,0.17948717948717954,0.0,0,0
+Custer was defeated at Little Bighorn,0.3835897435897434,0.0,0,5
+Cyprus is the only country to depict its map on its flag,0.3589743589743591,0.0,6,12
+Delaware,0.3248484848484848,16.0,12,0
+Florida,0.3030303030303029,0.0,0,1
+Georgia,0.32090909090909087,0.0,0,2
+Grand Central in New York is the world's most used train station.,0.3823076923076925,9.0,2,0
+Idaho,0.32242424242424234,0.0,5,7
+Iowa,0.32181818181818206,0.0,0,3
+Japan has the world's highest life expectancy,0.38282051282051244,11.0,7,11
+Johannesburg is one of South Africa's three capital cities,0.3823076923076925,9.0,4,7
+Jupiter was first discovered by Galileo Galilei,0.3823076923076925,9.0,7,9
+Kentucky,0.48484848484848453,0.0,0,0
+Lake Baikal is the deepest lake in the world.,0.3841025641025641,0.0,0,5
+Leptons are made up of quarks,0.41025641025641046,0.0,13,16
+Maine,0.3242424242424242,14.0,4,0
+Malignant Melanoma- 2349 019474HB.jpg,0.12000000000000004,0.0,0,0
+Malignant melanoma 2074 -019672HB.jpg,0.4615384615384616,6.0,2,2
+Marie Antoinette was married to Louis XVI,0.381794871794872,0.0,1,5
+Maryland,0.32303030303030295,10.0,6,0
+Massachusetts,0.3203030303030303,0.0,0,0
+Memphis is the state capital of Tennessee,0.46153846153846145,0.0,0,0
+Minnesota,0.3233333333333335,11.0,3,0
+Missouri,0.39393939393939403,0.0,0,4
+More living languages originate in N/S America than Europe,0.3076923076923078,12.0,0,0
+More people speak Wu Chinese than Cantonese,0.3076923076923078,12.0,4,10
+Mount Kilimanjaro is higher than Denali,0.3830769230769228,12.0,11,0
+Napoleon Bonaparte's first wife was a widow,0.38435897435897454,0.0,0,9
+Nebraska,0.3233333333333335,11.0,0,0
+Nero was the first Roman Emperor,0.3846153846153849,0.0,0,4
+New_Jersey,0.3245454545454544,15.0,4,0
+New_Mexico,0.32363636363636367,12.0,2,0
+New_York,0.2727272727272726,0.0,0,0
+North_Carolina,0.3242424242424242,14.0,9,0
+North_Dakota,0.39393939393939403,0.0,0,0
+"Of all the American state flags, Indiana's has the most stars.",0.41025641025641046,0.0,0,7
+Ohio,0.3221212121212122,0.0,5,7
+Oklahoma,0.32121212121212106,0.0,2,0
+Oregon,0.32303030303030295,10.0,3,0
+Pennsylvania,0.3233333333333335,11.0,4,0
+Red is higher frequency light than Blue,0.3838461538461538,15.0,12,15
+Rhode_Island,0.3206060606060605,0.0,0,0
+Shanghai has a greater population than Beijing,0.3846153846153849,0.0,0,11
+Sir Winston churchil was a Labour Prime Minister,0.38282051282051244,11.0,3,8
+Socrates was sentenced to death,0.3835897435897434,0.0,0,0
+South_Dakota,0.3248484848484848,16.0,8,0
+Tennessee,0.32303030303030295,10.0,3,0
+The Berlin Wall was constructed by East Germany,0.38153846153846155,0.0,3,0
+The Empire State Building has its own zip code.,0.4871794871794869,19.0,18,19
+The Magna Carta was signed in Rome,0.3333333333333335,0.0,0,5
+The Rosetta Stone contains an Ancient Greek section,0.3835897435897434,0.0,0,9
+The Rub' al Khali is the longest river in Saudi Arabia.,0.3846153846153849,18.0,9,14
+The Russian Cyrillic alphabet contains 29 letters,0.37236842105263124,9.0,0,5
+The Sahara Desert has a greater area than USA,0.46153846153846145,0.0,0,10
+The White House was built before Big Ben,0.41025641025641046,16.0,1,7
+The chemical symbol for Tin is Sn,0.3835897435897434,0.0,0,0
+The dot above an 'i' or 'j' is called a 'tittle',0.3835897435897434,0.0,0,6
+The island of Borneo is occupied by three countries,0.38487179487179507,0.0,0,9
+The longest bone in the human body is the femur,0.3805128205128203,0.0,0,0
+There are more 5 letter words than 12 letter words,0.38153846153846155,6.0,4,0
+There is no German word meaning 'fluffy',0.3076923076923078,0.0,10,10
+Vermont,0.3245454545454544,15.0,2,0
+Virginia,0.030303030303030283,0.0,0,0
+West_Virginia,0.32363636363636367,0.0,0,0
+"When Hydrogen nuclei fuse, total mass decreases",0.3589743589743591,14.0,8,0
+Wyoming,0.32242424242424234,0.0,2,0
+malignant-SSM-5.jpg,0.12307692307692308,0.0,0,0
