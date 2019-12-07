@@ -23,9 +23,9 @@ meta - the prediction by the participant of the fraction of people answering tru
 actual - the correct answer to the question 
 confidence - the confidence that each participant gave in their answer (0.5 to 1).
 
-**Study 1c: Study on 50 U.S. states, done in a lab at MIT.**
-**Study 2: Trivia questions**
-**Study 3: Dermatologists diagnosing lesions as malignant or benign**
+- Study 1c: Study on 50 U.S. states, done in a lab at MIT.**
+- Study 2: Trivia questions**
+- Study 3: Dermatologists diagnosing lesions as malignant or benign**
 
 ******
 
