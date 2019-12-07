@@ -1,12 +1,15 @@
 # Final-Project-Dec05
 
 ****** From Prelec's READ ME: ******
+
 The data for the paper and the research is graciously given to us by the following researchers, 
 in the context of further developing their paper: A solution to the single-question crowd wisdom
 problem. Nature, 541(7638), 532-535:
 
 Drazen Prelec, dprelec@mit.edu
+
 Sebastian Seung, sseung@princeton.edu
+
 John McCoy, jmccoy@mit.edu
 
 Their dataset consists of seven data files, which I only used three: study_1c, study_2 and study_3.
